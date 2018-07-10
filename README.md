@@ -1,2 +1,2 @@
 # DataScience-Internship
-Project works during the Internship at CloudALab (CLinsight Solutions)
+Froud Detection Mega-Project during the Internship at CloudALab (CLinsight Solutions)
